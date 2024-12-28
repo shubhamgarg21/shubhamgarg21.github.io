@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4c9ef59.css",
-    "main.js": "/static/js/main.ff181691.js",
+    "main.css": "/static/css/main.8bd8dabf.css",
+    "main.js": "/static/js/main.22b5b442.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.0ab732a1.chunk.js": "/static/js/487.0ab732a1.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -18,19 +18,21 @@
     "static/media/security.png": "/static/media/security.4ac3a8e44e504b8c4367.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/adobe.png": "/static/media/adobe.c8bf257bbcf38f4de35f.png",
+    "static/media/deeplearning.png": "/static/media/deeplearning.4a2f26eb82e6d711375e.png",
+    "static/media/Illinois.png": "/static/media/Illinois.cf706cfbfb593b6fa5ea.png",
     "static/media/hcl.jpg": "/static/media/hcl.7aed2e3c90e1c92d592a.jpg",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.a4c9ef59.css.map": "/static/css/main.a4c9ef59.css.map",
-    "main.ff181691.js.map": "/static/js/main.ff181691.js.map",
+    "main.8bd8dabf.css.map": "/static/css/main.8bd8dabf.css.map",
+    "main.22b5b442.js.map": "/static/js/main.22b5b442.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.0ab732a1.chunk.js.map": "/static/js/487.0ab732a1.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
     "990.6e9afb47.chunk.js.map": "/static/js/990.6e9afb47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4c9ef59.css",
-    "static/js/main.ff181691.js"
+    "static/css/main.8bd8dabf.css",
+    "static/js/main.22b5b442.js"
   ]
 }
